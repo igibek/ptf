@@ -7,4 +7,5 @@ modules/vulnerability-analysis/httphunter
 modules/intelligence-gathering/gobuster
 modules/intelligence-gathering/amass
 modules/intelligence-gathering/eyewitness
+modules/intelligence-gathering/httprobe
 modules/post-exploitation/unicorn
