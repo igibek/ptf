@@ -1,3 +1,10 @@
 modules/exploitation/metasploit
+modules/exploitation/sqlmap
+modules/exploitation/pwntools
 modules/vulnerability-analysis/nmap
+modules/vulnerability-analysis/nikto
+modules/vulnerability-analysis/httphunter
+modules/intelligence-gathering/gobuster
+modules/intelligence-gathering/amass
+modules/intelligence-gathering/eyewitness
 modules/post-exploitation/unicorn
